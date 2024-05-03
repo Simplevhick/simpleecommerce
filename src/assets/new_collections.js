@@ -1,0 +1,37 @@
+import Img1 from "./Children1.jpeg"
+import Img2 from "./Children1.jpeg"
+import Img3 from "./Children1.jpeg"
+import Img4 from "./Children1.jpeg"
+import Img5 from "./Children1.jpeg"
+import Img6 from "./Children1.jpeg"
+import Img7 from "./Children1.jpeg"
+import Img8 from "./Children1.jpeg"
+import Img9 from "./Children1.jpeg"
+import Img10 from "./Children1.jpeg"
+import Img11 from "./female1.jpeg"
+import Img12 from "./Female2.jpeg"
+import Img13 from "./Female3.jpeg"
+import Img14 from "./Female4.jpeg"
+import Img15 from "./Female5.jpeg"
+import Img16 from "./Female6.jpeg"
+import Img17 from "./Female7.jpeg"
+import Img18 from "./Female8.jpeg"
+import Img19 from "./Female9.jpeg"
+import Img20 from "./Female10.jpeg"
+import Img21 from "./Men1.jpeg"
+import Img22 from "./Men2.jpeg"
+import Img23 from "./Men3.jpeg"
+import Img24 from "./Men4.jpeg"
+import Img25 from "./Men5.jpeg"
+import Img26 from "./Men6.jpeg"
+import Img27 from "./Men7.jpeg"
+import Img28 from "./Men8.jpeg"
+import Img29 from "./Men9.jpeg"
+import Img30 from "./Men10.jpeg"
+
+let all_products = [
+    {
+      id: 1,
+      name: "Stripped F"       
+    }
+]
